@@ -1,4 +1,3 @@
-# 12_Plotly_and_Belly_Button_Biodiversity_GH
 **Goal**
 To create a Bellybutton Bacteria Diversity Dashboard using Plotly JavaScript and D3
 
@@ -12,3 +11,4 @@ The final dash board is composed of 5 components:
 **Implementation**
  - index.html - layout of the dashboard components, and defines containers to plot charts using Plotly
  - plots.js - Use D3 to load data from sample.js. Implemented individual Plotly functions to plot the chart componets described above. Javascript functions such as map, filter, slice, reverse, etc. are used to transform the data in the way needed for Plotly plots to work.
+ 
